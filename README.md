@@ -16,14 +16,14 @@
 
 <!-- About Section -->
 <div align="center">
-  I build **AI-powered platforms**, **cybersecurity ranges**, and **comprehensive web solutions**.  
+  I build <b>AI-powered platforms</b>, <b>cybersecurity ranges</b>, and <b>comprehensive web solutions</b>.  
   Currently architecting the future of portfolios at <b>Foligo</b> and securing networks with <b>Wiretap</b>.
 </div>
 
 <br />
 
 <!-- Tech Stack Badges -->
-<h3 align="center">🛠️ The Arsenal</h3>
+<h3 align="center">🛠️ Skills</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
@@ -55,12 +55,6 @@
 
 <!-- GitHub Stats Section -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tgmstudios&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tgmstudios&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&hide_rank=true" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgmstudios&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" height="180" alt="languages graph" />
-</div>
-
-<!-- Interactive Snake Game -->
-<br />
-<div align="center">
-  <img src="https://github.com/tgmstudios/tgmstudios/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
